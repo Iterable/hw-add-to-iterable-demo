@@ -1,0 +1,22 @@
+{
+  "messageMedium": "Email",
+  "content": {
+    "fromName": "Chuck Testa",
+    "fromEmail": "adam.hobbi@iterable.com",
+    "subject": "Hi from Iterable!",
+    "preheaderText": "",
+    "html": "<html>\n<head>\n\t<title></title>\n\t<style class=\"darkreader darkreader--sync\" media=\"screen\" type=\"text/css\">\n\t</style>\n\t<style class=\"darkreader darkreader--sync\" media=\"screen\" type=\"text/css\">\n\t</style>\n</head>\n<body>\n<p>Hi this is Greg!<br />\n<br />\n{{unsubscribeUrl}}&nbsp;</p>\n</body>\n</html>\n",
+    "plainText": "",
+    "ccEmails": [],
+    "bccEmails": [],
+    "inlineCss": true,
+    "googleAnalyticsCampaignName": null
+  },
+  "metadata": {
+    "cacheDataFeed": true,
+    "mergeDataFeedContext": false,
+    "referenceDataFeedsByAlias": false,
+    "dataFeedIds": [],
+    "name": "My template"
+  }
+}
