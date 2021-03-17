@@ -1,0 +1,19 @@
+{
+  "messageMedium": "Push",
+  "content": {
+    "message": "hello hello",
+    "contentAvailable": false,
+    "googleAnalyticsCampaignName": null,
+    "defaultAction": {"type": "openApp"},
+    "payload": {},
+    "title": "Hello",
+    "actionButtons": []
+  },
+  "metadata": {
+    "cacheDataFeed": true,
+    "mergeDataFeedContext": false,
+    "referenceDataFeedsByAlias": false,
+    "dataFeedIds": [],
+    "name": "Greg's push template"
+  }
+}
