@@ -5,7 +5,264 @@
     "fromEmail": "adam.hobbi@iterable.com",
     "subject": "Hi from Iterable!",
     "preheaderText": "",
-    "html": "<html>\n<head>\n\t<title></title>\n\t<style class=\"darkreader darkreader--sync\" media=\"screen\" type=\"text/css\">\n\t</style>\n\t<style class=\"darkreader darkreader--sync\" media=\"screen\" type=\"text/css\">\n\t</style>\n</head>\n<body>\n<p>Hello this is iterable!<br />\n<br />\n{{unsubscribeUrl}}&nbsp;</p>\n</body>\n</html>\n",
+    "html": "<html>
+  <head>
+    <title></title>
+    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\" />
+    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\" />
+    <style type=\"text/css\">
+      .ExternalClass {
+        width:100% !important;
+        display:block !important;
+      }
+      * {
+        -webkit-text-size-adjust:none;
+        -webkit-text-resize:100%;
+        text-resize:100%;
+      }
+      .appleLinks a {
+        color:#929292;
+        text-decoration: none;
+      }
+      .appleLinksGray a {
+        color:#929292;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body bgcolor=\"#f5f5f5\" style=\"margin: 0px; padding: 0px; cursor: auto;\">
+    <table align=\"center\" bgcolor=\"#f5f5f5\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+      <tbody>
+        <tr>
+          <td>
+            <table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" width=\"700\">
+              <tbody>
+                <tr>
+                  <td>
+                    <table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" width=\"700\">
+                      <tbody>
+                        <tr>
+                          <td height=\"12\"></td>
+                        </tr>
+                        <tr>
+                          <td style=\"font:10px Helvetica, Arial, sans-serif; color:#a4a6a4; text-align:center; line-height:16px;\"></td>
+                        </tr>
+                        <tr>
+                          <td height=\"12\"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <table align=\"center\" bgcolor=\"#ffffff\" cellpadding=\"0\" cellspacing=\"0\" width=\"700\">
+                      <tbody>
+                        <tr>
+                          <td>
+                            <table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" width=\"630\">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <table cellpadding=\"0\" cellspacing=\"0\" width=\"630\">
+                                      <tbody>
+                                        <tr>
+                                          <td width=\"223\">
+                                            <a href=\"http://www.yourcompany.com\" target=\"_blank\"><img src=\"http://static.iterable.com/14851415c4714c98a447b688af2ead39/14-06-24-iterablelogo.png\" style=\"border-width: 0px; border-style: solid; width: 295px; height: 81px;\" /></a>
+                                          </td>
+                                          <td align=\"right\" style=\"padding-top:24px;\" valign=\"top\" width=\"293\">
+                                            <table cellpadding=\"0\" cellspacing=\"0\">
+                                              <tbody>
+                                                <tr>
+                                                  <td style=\"color:#929292;font:10px Helvetica, Arial, sans-serif;line-height:18px;text-align:right;text-transform:uppercase;\">
+                                                    <a href=\"http://www.yourcompany.com\" style=\"color:#ff9600; text-decoration:none;\"><b>All Sales</b></a>
+                                                    <br />
+                                                    <a href=\"https://www.dyourcompanycom/account/info\" style=\"color:#929292; text-decoration:none;\">My Account</a>
+                                                    <br />
+                                                    <a href=\"https://www.yourcompany.com/invite-friends\" style=\"color:#929292; text-decoration:none;\">Invite Friends</a>
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height=\"30\"></td>
+                                        </tr>
+                                        <tr>
+                                          <td height=\"12\"></td>
+                                        </tr>
+                                        <tr>
+                                          <td bgcolor=\"#dddacd\" colspan=\"4\" height=\"1\"></td>
+                                        </tr>
+                                        <tr>
+                                          <td height=\"22\"></td>
+                                        </tr>
+                                        <tr>
+                                          <td colspan=\"4\">
+                                            <img border=\"0\" height=\"29\" src=\"http://cdn.dotandbo.com/email/em-m14-stillavailable2.jpg\" width=\"364\" />
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height=\"22\"></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+                                      <tbody>
+                                        <tr>
+                                          <td bgcolor=\"#ffffff\" style=\"border:1px solid #dddacd; padding:4px;\" width=\"360\">
+                                            <a href=\"{{shoppingCartItems.[0].url}}\"><img src=\"http://static.iterable.com/14851415c4714c98a447b688af2ead39/14-06-24-Screen Shot 2014-06-24 at 1.59.11 PM.png\" style=\"display: block; border-width: 0px; border-style: solid; width: 360px; height: 360px;\" /></a>
+                                          </td>
+                                          <td width=\"15\"></td>
+                                          <td valign=\"top\" width=\"245\">
+                                            <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+                                              <tbody>
+                                                <tr>
+                                                  <td style=\"color:#626262;font:24px 'HelveticaNeueLight', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'HelveticaNeue', 'Helvetica Neue', Arial, sans-serif;line-height:26px;text-align:left;padding-top:15px;\">
+                                                    {{shoppingCartItems.[0].name}}
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height=\"8\"></td>
+                                                </tr>
+                                                <tr>
+                                                  <td style=\"font:14px Helvetica, Arial, sans-serif; line-height:16px; color:#929292;\">
+                                                    <span style=\"text-decoration:line-through;\">{{shoppingCartItems.[0].msrp}} Retail</span> &nbsp;<span style=\"font:14px Helvetica, Arial, sans-serif;letter-spacing:-1px; color:#c5c5c5;\">|</span> &nbsp;<span style=\"font:14px Helvetica, Arial, sans-serif;letter-spacing:-1px; color:#626262;\"><b>${{shoppingCartItems.[0].price}}</b></span>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height=\"20\"></td>
+                                                </tr>
+                                                <tr>
+                                                  <td>
+                                                    <a href=\"{{shoppingCartItems.[0].url}}\"><img border=\"0\" height=\"34\" src=\"http://cdn.dotandbo.com/email/em-m14-viewitem2.jpg\" width=\"200\" /></a>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height=\"12\"></td>
+                                                </tr>
+                                                <tr>
+                                                  <td>
+                                                    <a href=\"http://www.dotandbo.com\"><img border=\"0\" height=\"34\" src=\"http://cdn.dotandbo.com/email/em-m14-shopallsales2.jpg\" width=\"200\" /></a>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height=\"34\"></td>
+                                                </tr>
+                                                <tr>
+                                                  <td colspan=\"3\" style=\"color:#929292;font:13px 'HelveticaNeueLight', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'HelveticaNeue', 'Helvetica Neue', Arial, sans-serif;line-height:18px;text-align:left;padding-top:10px;\">
+                                                    If you need assistance with ordering
+                                                    <br />
+                                                    or have general questions, please
+                                                    <br />
+                                                    <a href=\"mailto:service@dotandbo.com\" style=\"text-decoration:none;color:#ff9d11;\">send us an email</a> or call us
+                                                    <br />
+                                                    at <a style=\"color:#929292; text-decoration:none\"><span class=\"appleLinks\" style=\"text-decoration:none;\">866.487.2567</span></a>.
+                                                    <br />
+                                                    <br />
+                                                    We hope to see you again soon!
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=\"40\"></td>
+                </tr>
+                <tr>
+                  <td align=\"center\">
+                    <table cellpadding=\"0\" cellspacing=\"0\" width=\"630\">
+                      <tbody>
+                        <tr>
+                          <td align=\"center\">
+                            <table cellpadding=\"0\" cellspacing=\"0\">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <a href=\"https://www.facebook.com/dotandbo\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"24\" hspace=\"0\" src=\"http://cdn.dotandbo.com/email/em-apr-testv5-share1.jpg\" vspace=\"0\" width=\"24\" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"http://www.pinterest.com/dotandbo\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"24\" hspace=\"0\" src=\"http://cdn.dotandbo.com/email/em-apr-testv5-share2.jpg\" vspace=\"0\" width=\"24\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://twitter.com/DotandBo\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"24\" hspace=\"0\" src=\"http://cdn.dotandbo.com/email/em-apr-testv5-share3.jpg\" vspace=\"0\" width=\"24\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://plus.google.com/+Dotandbo/about\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"24\" hspace=\"0\" src=\"http://cdn.dotandbo.com/email/em-apr-testv5-share4.jpg\" vspace=\"0\" width=\"24\" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"http://instagram.com/dotandbo\" target=\"_blank\"><img alt=\"\" border=\"0\" height=\"24\" hspace=\"0\" src=\"http://cdn.dotandbo.com/email/em-apr-testv5-share5.jpg\" vspace=\"0\" width=\"24\" /></a>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=\"38\"></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor=\"#dddacd\" height=\"1\"></td>
+                        </tr>
+                        <tr>
+                          <td height=\"28\"></td>
+                        </tr>
+                        <tr>
+                          <td align=\"center\">
+                            <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"560\">
+                              <tbody>
+                                <tr>
+                                  <td style=\"color:#a4a6a4;font:11px Helvetica, Arial, sans-serif;line-height:12px;text-align:center; text-transform:uppercase;\">
+                                    <a href=\"https://www.dotandbo.com\" style=\"color:#a4a6a4; text-decoration:none;\">Shop All Sales</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=\"https://www.dotandbo.com/account\" style=\"color:#a4a6a4; text-decoration:none;\">My Account</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call Us at 8&zwnj;00-1&zwnj;23-4&zwnj;567 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=\"https://www.dotandbo.com/contact\" style=\"color:#a4a6a4; text-decoration:none;\">Contact Us</a>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=\"28\"></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor=\"#dddacd\" height=\"1\"></td>
+                        </tr>
+                        <tr>
+                          <td height=\"28\"></td>
+                        </tr>
+                        <tr>
+                          <td style=\"font:11px Helvetica, Arial, sans-serif; color:#bdbdbd; text-align:center; line-height:14px;\">
+                            This email was sent to <a href=\"mailto:{{email}}\" style=\"color:#929292; text-decoration:none;\">{{email}}</a>
+                            <br />
+                            <br />
+                            To ensure delivery to your inbox, please add <a href=\"mailto:hello@dotandbo.com\" style=\"color:#929292; text-decoration:none;\">hello@iterable.com</a> to your address book and safe-sender list.
+                            <br />
+                            <a href=\"http://www.dotandbo.com/\" style=\"color:#929292; text-decoration:none;\">Shop Now</a>. If you no longer want to receive emails&nbsp;from us, you can <a href=\"{{hostedUnsubscribeUrl}}\" style=\"color:#929292; text-decoration:none;\">unsubscribe</a>.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=\"40\"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>",
     "plainText": "",
     "ccEmails": [],
     "bccEmails": [],
