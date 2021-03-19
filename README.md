@@ -8,7 +8,7 @@ Check out all these awesome templates you can add to your project!
 
 ![](https://d28o5txnghctod.cloudfront.net/demo-folder/preview-1616178519794_fs.png)
 
-[<img src="https://tinyurl.com/rt6ku4f8" width="150">](https://localhost:9000/add-to-iterable?url=templates/orens-hummus.json)
+[<img src="https://tinyurl.com/rt6ku4f8" width="150">](http://localhost:9000/add-to-iterable?url=templates/orens-hummus.json)
 
 ## Shopping Cart Abandonment
 
